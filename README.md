@@ -40,6 +40,8 @@ Update the connection string in `appsettings.json`:
 
 For the backend, navigate to https://github.com/jLillebror/campaign-companion-backend and download it.
 
+Reminder: Start the backend
+
 
 Open the terminal and install Next JS,
 
